@@ -136,7 +136,10 @@ In the command below we:
     - `-o <dir>`
 
 <br>
+Before we start, we need to activate a dedicated conda environment. 
+You can check which environments have been installed in your computer using the command: conda env list
 
+To activate the unicycler environment, type the command: "conda activate unicycler-env"
 An assembly has already been made using `S_aureus_JKD6159_Illumina.s100.ds500000-reads` :
 
 ```
